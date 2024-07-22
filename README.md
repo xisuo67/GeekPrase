@@ -45,6 +45,8 @@
 > 支持抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 >
 > 参考[parse-video](https://github.com/wujunwei928/parse-video)
+>
+> 这是一个基于parse-video二开的项目，它是parse-video的另外一种实现，此项目仅用于学习wails与完善自己框架为目的，强烈建议移步原作者学习源码！
 
 ## 说明
 
